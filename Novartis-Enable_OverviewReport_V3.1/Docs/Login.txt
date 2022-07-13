@@ -1,0 +1,4 @@
+server_name: cdtssql88p
+login: plyasvc-enadmin
+password: z@43FrAp
+db name: ImsNvsM_Dwh
